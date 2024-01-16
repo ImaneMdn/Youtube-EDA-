@@ -5,7 +5,7 @@ In this project I have used a dataset from Kaggle:
 > - [Kaggle dataset](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
 
 ### Use cases :
-- YouTube Analytics:insights into the success factors of top YouTube channels.
+- YouTube Analytics: insights into the success factors of top YouTube channels.
 - Content Strategy: the most popular categories and upload frequencies that resonate with audiences.
 - Regional Influencers: influential YouTube creators from different countries and their impact on a global scale.
 - Earnings Analysis: the correlation between channel performance and estimated earnings.
